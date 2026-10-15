@@ -27,7 +27,9 @@ The line `g -= 0.1f` was missing its semicolon, and the compiler error ("; expec
 
 ### W3
 
-**Activity 1 — method designs (Table answers):**
+**Table number:** Not recorded; I chose a seat freely.
+
+**Activity 1 — method designs:**
 
 1. `GetResponse` (visual novel): parameters are an **int** (the player's current friendship level with the character) and a **bool** (whether the player knows the character's secret); return type is a **string**, because the method's whole job is to hand back the character's text response.
 2. `SetLightDimness` (horror game): parameter is a **float** (the player's sanity level, 0–100); return type is **void**, because the method changes the light itself and doesn't need to hand any value back to the code that called it.
