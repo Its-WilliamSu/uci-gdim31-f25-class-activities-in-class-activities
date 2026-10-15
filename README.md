@@ -9,7 +9,7 @@ When the Camera is a child of the Cat, it follows the cat around because a child
 
 **2. Please link your working Itch page.**
 
-*(Itch page link goes here once the web build is uploaded.)*
+[Play the W1 in-class activity on Itch.io](https://its-williamsu.itch.io/gdim31-w1-activity)
 
 ### W2
 
